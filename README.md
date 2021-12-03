@@ -1,2 +1,3 @@
-# RL_Self_Driving_Car_Intersection
-Self Driving Car using DQN algorithm
+# Self-Driving Car for Highway Intersection in Mixed Traffic
+Contributors- Raghava Devaraje Urs, Shiv Kumar Ganesh, Kumuda B G Murthy 
+
