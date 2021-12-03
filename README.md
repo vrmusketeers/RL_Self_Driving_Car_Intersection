@@ -1,3 +1,4 @@
 # Self-Driving Car for Highway Intersection in Mixed Traffic
-Contributors- Raghava Devaraje Urs, Shiv Kumar Ganesh, Kumuda B G Murthy 
+### Course: CMPE-260 Sec 49 – Reinforcement Learning
+### Contributors: Raghava Devaraje Urs, Shiv Kumar Ganesh, Kumuda BG Murthy 
 
